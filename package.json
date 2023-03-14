@@ -27,7 +27,7 @@
     "grunt-eslint": "24.0.0",
     "grunt-webpack": "5.0.0",
     "load-grunt-tasks": "5.1.0",
-    "webpack": "5.68.0",
+    "webpack": "5.76.0",
     "webpack-dev-server": "^4.7.4"
   },
   "scripts": {
